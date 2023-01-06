@@ -2,6 +2,8 @@ function upperJS(value) {
     return value.toUpperCase();
 }
 
+// try browser dev
+
 const resultJS = upperJS('abc');
 console.log(resultJS);
 
